@@ -25,15 +25,31 @@ Acordingly, we propose  *methods* to measure pathogen - host coevolution, trying
 
 **Coevolution of pathogen- host interaction**
 
-Geographic mosaic coevolution theory propouse - *explain briefly what is this theory mentioning* 
+Geographic mosaic coevolution theory propouse - *explain briefly what is this theory mentioning*
+
+*Coevolution is the reciprocal adaptation among interacting
+organisms, and it is one of the major forces that organize
+biodiversity by linking the genomes of interacting species
+(Thompson and Cunningham, 2002). It is also one of the
+major forces creating biodiversity because diversifying coevolutionary selection can lead to speciation (Thompson, 2005,
+2009). Measuring coevolution is difficult because it involves
+determining how two species interact through time, and without a time machine it is difficult to measure how traits of
+interacting species have changed through time. The difficulties
+in rigorously testing coevolutionary hypotheses led to questions
+about its importance as an evolutionary force. To solve the
+problems in testing the coevolutionary hypothesis, Thompson
+(1999, 2005) developed the geographic mosaic theory of coevolution that examines geographic variation in species interactions to use space as a proxy for time to measure coevolution.
+A geographic mosaic of coevolution (GMC) occurs when local
+variation in species interactions produces a spatially variable
+pattern of reciprocal adaptation in these species
+
+
 Acordingly, at a local level,  there are several factors driving pathogen host interaction : 
 - [ ] Theories of Pathogen host coevolution - See the ones mentioned un one of your QE questions proposal
 pathogens can respond in a variety of ways, and there have been several conceptual models (gene for gene, matching alleles, red queen, fluctuating selection dynamics, ...)
 
 - [ ] Paragraph about  evolution virulence : VIrulence is defined as the capacity of a pathogen of decrease the fitness of the host, but for several models have been adresses as the death rate once it is infected 
 [[Cressler2016AdaEvo]]  ;  [[Frank2008MecPat]]  . The understanding of virulence and how we measure it has been approached for other researchers, but most of their research is model focused. 
-
-
 
 Infection cycles occur at a geografical scale, with factors not only pathogen-host related. 
 
