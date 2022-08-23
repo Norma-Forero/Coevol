@@ -43,6 +43,9 @@ A geographic mosaic of coevolution (GMC) occurs when local
 variation in species interactions produces a spatially variable
 pattern of reciprocal adaptation in these species
 
+*
+*Geographic mosaic for pathogen host coevolution*
+*
 
 Acordingly, at a local level,  there are several factors driving pathogen host interaction : 
 - [ ] Theories of Pathogen host coevolution - See the ones mentioned un one of your QE questions proposal
