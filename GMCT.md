@@ -14,25 +14,17 @@ Abstract
  
 **
 
-Successful public health strategies for mitigating emerging infectious disease, requires understand evolutve history from the interaction between pathogens with their host under a geographical frame.  Using the coevolutionary hipothesis proposed by Thompson , will lead us to explain the evolutve mechanism behind virulence diversity ( refering to virulence the amount and the speed of which a pathogen kill a host ) and inmune adaptation in a biogeographical scale. 
+Successful public health strategies for mitigating emerging infectious disease, requires understand evolutve history from the interaction between pathogens with their host under a geographical frame.  Using the coevolutionary hipothesis proposed by Thompson , will lead us to explain the evolutve mechanism behind virulence diversity ( refering to virulence the amount and the speed of which a pathogen kill a host ) and inmune adaptation in a biogeographical scale. Coevolution is the reciprocal adaptation among interacting organisms, and one of the teories that better explain biodiversity because coevolutionary selection can lead to speciation. Geographic mosaic theory of coevolution examines geographic variation in species interactions to approaching a method to measure coevolution.
 
-Local coevolutionary process between pathogen - host can regulate the pathogens virulence according to its  specialization to the inmune sytem of the host 
-
-Despite how promising seems using GMTC with epidemiological porpuses. Its implementation is still challenging, considering that coevolution implies rules as properly measuring  coevolution, based on local and spatial criteria that frequently are both hard to find and measure. 
-Measuring factors as local adaptation, tranfering some genes, biogeografical evidence. 
-Acordingly, we propose  *methods* to measure pathogen - host coevolution, trying to encompass the complexity of coevolution. 
+However, 
 
 
-**Coevolution of pathogen- host interaction**
+A geographic mosaic of coevolution (GMC) occurs when local
+variation in species interactions produces a spatially variable
+pattern of reciprocal adaptation in these species
 
-Geographic mosaic coevolution theory propouse - *explain briefly what is this theory mentioning*
 
-*Coevolution is the reciprocal adaptation among interacting
-organisms, and it is one of the major forces that organize
-biodiversity by linking the genomes of interacting species
-(Thompson and Cunningham, 2002). It is also one of the
-major forces creating biodiversity because diversifying coevolutionary selection can lead to speciation (Thompson, 2005,
-2009). Measuring coevolution is difficult because it involves
+Measuring coevolution is difficult because it involves
 determining how two species interact through time, and without a time machine it is difficult to measure how traits of
 interacting species have changed through time. The difficulties
 in rigorously testing coevolutionary hypotheses led to questions
@@ -42,6 +34,17 @@ problems in testing the coevolutionary hypothesis, Thompson
 A geographic mosaic of coevolution (GMC) occurs when local
 variation in species interactions produces a spatially variable
 pattern of reciprocal adaptation in these species
+
+Measuring factors as local adaptation, tranfering some genes, biogeografical evidence. 
+Acordingly, we propose  *methods* to measure pathogen - host coevolution, trying to encompass the complexity of coevolution. 
+
+Local coevolutionary process between pathogen - host can regulate the pathogens virulence according to its  specialization to the inmune sytem of the host, despite how promising seems using GMTC with epidemiological porpuses. Its implementation is still challenging, considering that coevolution implies rules as properly measuring  coevolution, based on local and spatial criteria that frequently are both hard to find and measure. 
+
+**Coevolution of pathogen- host interaction**
+
+
+
+
 
 *Geographic mosaic for pathogen host coevolution
 
