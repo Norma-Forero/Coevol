@@ -1,5 +1,5 @@
 
-# GMCT, pathogen host - coevolution risk prediction 
+# GMCT, pathogen- host and risk prediction 
 Tag: #Manuscript
 
 Journal : Trends in ecology and evolution 
@@ -18,8 +18,6 @@ Successful public health strategies for mitigating emerging infectious disease, 
 However,A geographic mosaic of coevolution (GMC) occurs when local
 variation in species interactions produces a spatially variable
 pattern of reciprocal adaptation in these species
-
-
 Measuring coevolution is difficult because it involves
 determining how two species interact through time, and without a time machine it is difficult to measure how traits of
 interacting species have changed through time. The difficulties
@@ -40,25 +38,23 @@ Local coevolutionary process between pathogen - host can regulate the pathogens 
 
 *Geographic mosaic for pathogen host coevolution*
 
-pathogens have a negative effect on host fitness, favouring selection of enhanced defence mechanisms in the affected hosts. If pathogen fitness depends on the host, then host defence can be detrimental for the pathogen, leading to selection for novel attack mechanisms. When the interaction persists over time, the ongoing cycles of adaptation and counteradaptation can produce one of the highest selective pressures known in nature(REF)
+pathogens have a negative effect on host fitness, favouring selection of enhanced defence mechanisms in the affected hosts. If pathogen fitness depends on the host, then host defence can be detrimental for the pathogen, leading to selection for novel attack mechanisms. When the interaction persists over time, the ongoing cycles of adaptation and counteradaptation can produce one of the highest selective pressures known in nature(REF) Pathogen- host coevolution :  pathogens can respond in a variety of ways, and there have been several conceptual models (gene for gene, matching alleles, red queen, fluctuating selection dynamics, ...)
 
-- [ ] Theories of Pathogen host coevolution - pathogens can respond in a variety of ways, and there have been several conceptual models (gene for gene, matching alleles, red queen, fluctuating selection dynamics, ...)
+- [ ] Virulence evolution  : Virulence is defined as the capacity of a pathogen of decrease the fitness of the host, but for several models have been adresses as the death rate once it is infected [[Cressler2016AdaEvo]]  ;  [[Frank2008MecPat]]. The understanding of virulence and how we measure it has been approached mostly using modelling. Highly specialized with high virulence or generalist with low virulence. 
+- [ ] Inmune system : How the inmune system adapt to pathogens. Evo. 
+- [ ] Infection cycles occur at a geografical scale, influenced with external factors : Small paragraph from: Carlson 2022 Climate change (REF : https://www.nature.com/articles/s41586-022-04788-w ) , (...) 
 
-- [ ] Paragraph about  evolution virulence : Virulence is defined as the capacity of a pathogen of decrease the fitness of the host, but for several models have been adresses as the death rate once it is infected 
-[[Cressler2016AdaEvo]]  ;  [[Frank2008MecPat]]. The understanding of virulence and how we measure it has been approached mostly using modelling. 
+GMTC describe how co evolution it a reciprocal evolutionary change that occurs between interacting groups [REF] but under a geographical framework (ref). 
 
-- [ ] Evolution of virulence. Highly specialized with high virulence or generalist with low virulence. 
+
+
 Coevolutionary cold spots arise for many reasons, including nonoverlapping geographic ranges (Nuismer et al., 2003), the presence or absence of additional species (Benkman et al., 2001) or shifting abiotic conditions (Hochberg and van Baalen, 1998).
 1. Interacciones P-H especializadas. Extincion del pathogeno, maladaptacion o cross species trasnmission 
-- [ ] Recognize transmission cyle and how to be part of it. (So we can avoid them)
-(Cuando hablamos de coevolucion pathogeno - huesped. Como se ve eso en la naturaleza de acuerdo a Thompson) 1. Como se ve un hotspot : Un hotspot, de acuerdo a thompson, teoricamente lo podriamos identificar si - Insertar lo que dice G sobre identficar estas areas-  
-
-Infection cycles occur at a geografical scale, with factors not only pathogen-host related. 
-
-Coevolution implies consider populations and factors surrounding them.  Coevolution is defined as reciprocal evolutionary change that occurs between interacting groups [REF]. And the geographic mosaic of coevolution [REF], measures coevolutionary selection, considering the presence or absence of certain traits in interacting species (trait remixing), the influence of external factors (selection mosaic), and how it can be evidenced at a geographical scale with the presence of hotspot and coldspot of coevolution. [REF thompson].  
-
 **
 **Do we need to Identify hotspots of pathogen-host coevolution?**
+
+- [ ] Recognize transmission cyle and how to be part of it. (So we can avoid them)
+(Cuando hablamos de coevolucion pathogeno - huesped. Como se ve eso en la naturaleza de acuerdo a Thompson) 1. Como se ve un hotspot : Un hotspot, de acuerdo a thompson, teoricamente lo podriamos identificar si - Insertar lo que dice G sobre identficar estas areas-  
 
 Take-home message: Hotspot areas we can find pathogens that can be highly virulent, and not necessary specialized.  Recognizing to avoid being part of it (If we detect hotspots, we can know how they influence other areas and therefore avoid or mitigate their impact) 
 
