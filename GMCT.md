@@ -1,5 +1,5 @@
 
-# GMCT - 2022 CONTEXT 
+# GMCT, pathogen host - coevolution risk prediction 
 Tag: #Manuscript
 
 Journal : Trends in ecology and evolution 
@@ -10,7 +10,6 @@ Schedule :  [GMTC To do list ](Goals_GMCT.md)
 Author 
 Highlights 
 Abstract
-
  
 **
 
@@ -59,7 +58,7 @@ Infection cycles occur at a geografical scale, with factors not only pathogen-ho
 Coevolution implies consider populations and factors surrounding them.  Coevolution is defined as reciprocal evolutionary change that occurs between interacting groups [REF]. And the geographic mosaic of coevolution [REF], measures coevolutionary selection, considering the presence or absence of certain traits in interacting species (trait remixing), the influence of external factors (selection mosaic), and how it can be evidenced at a geographical scale with the presence of hotspot and coldspot of coevolution. [REF thompson].  
 
 **
-**Why do we need to Identifyng hotspots of pathogen -host coevolution?**
+**Do we need to Identify hotspots of pathogen-host coevolution?**
 
 Take-home message: Hotspot areas we can find pathogens that can be highly virulent, and not necessary specialized.  Recognizing to avoid being part of it (If we detect hotspots, we can know how they influence other areas and therefore avoid or mitigate their impact) 
 
@@ -71,7 +70,7 @@ Hotspots have highly specialized pathogen - host interactions, the participation
 - [ ] It's not only about hotspot, it's also about how it interact with cold spot : 3. As hotspots influence coldspots, while maladaptation may exist, these pathogens are not able to infect anything. It can also happen that these pathogens are very virulent (after being in the red queen theory with other hosts) and therefore, once they pass to a new host, they are lethal.  [[Gomulkiewicz2007DosDon]]  [@Gomulkiewicz2007DosDon] [[Gomulkiewicz2007DosDon]] 
 **
 
-**How we identifyng coevolutive hotspots?**
+**How we identify and meausre a coevolutive hotspot?**
 It has been proposed some methods to approach coevolution in nature  - [ ] [[Woolhouse2002Biomedicalcoevolution ]]  [[Gomulkiewicz2007DosDon]] debate
 - [ ] Betacov methods 
 The identification of coevolutive pathogen-host areas requires evidence of change… - *Awesome methods?*
