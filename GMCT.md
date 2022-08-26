@@ -45,10 +45,10 @@ pathogens have a negative effect on host fitness, favouring selection of enhance
 
 - [ ] Theories of Pathogen host coevolution - pathogens can respond in a variety of ways, and there have been several conceptual models (gene for gene, matching alleles, red queen, fluctuating selection dynamics, ...)
 
-- [ ] Paragraph about  evolution virulence : VIrulence is defined as the capacity of a pathogen of decrease the fitness of the host, but for several models have been adresses as the death rate once it is infected 
-[[Cressler2016AdaEvo]]  ;  [[Frank2008MecPat]]  . The understanding of virulence and how we measure it has been approached for other researchers, but most of their research is model focused. 
+- [ ] Paragraph about  evolution virulence : Virulence is defined as the capacity of a pathogen of decrease the fitness of the host, but for several models have been adresses as the death rate once it is infected 
+[[Cressler2016AdaEvo]]  ;  [[Frank2008MecPat]]. The understanding of virulence and how we measure it has been approached mostly using modelling. 
 
-- [ ] Evolution of virulence. Highly specialized and highly viruelnt or generalist with low virulence. 
+- [ ] Evolution of virulence. Highly specialized with high virulence or generalist with low virulence. 
 Coevolutionary cold spots arise for many reasons, including nonoverlapping geographic ranges (Nuismer et al., 2003), the presence or absence of additional species (Benkman et al., 2001) or shifting abiotic conditions (Hochberg and van Baalen, 1998).
 1. Interacciones P-H especializadas. Extincion del pathogeno, maladaptacion o cross species trasnmission 
 - [ ] Recognize transmission cyle and how to be part of it. (So we can avoid them)
