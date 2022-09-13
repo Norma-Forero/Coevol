@@ -5,7 +5,7 @@ Tag: #Manuscript
 Journal : Trends in ecology and evolution 
 Type: opinion manuscript
 https://www.cell.com/trends/ecology-evolution/authors
-Schedule :  [GMTC To do list ](Goals_GMCT.md)
+Schedule :  [GMTC To do list](Goals_GMCT.md)
   
 Author 
 Highlights 
@@ -13,10 +13,18 @@ Abstract
  
 **
 
-Successful public health strategies for mitigating emerging infectious disease, requires understand evolutve history from the interaction between pathogens with their host under a geographical frame.  Using the coevolutionary hipothesis proposed by Thompson, we will explain the evolutve mechanism behind virulence diversity ( refering to virulence the amount and the speed of which a pathogen kill a host ) and inmune adaptation at a biogeographical scale. Aditional to suggest methods to identifiy hotspots and coldspots of coevolution with potential higher risk of cross species transmission (?). Coevolution is the reciprocal adaptation among interacting organisms, and one of the teories that better explain biodiversity because coevolutionary selection can lead to speciation. Geographic mosaic theory of coevolution examines and compare local variation in species interactions from diferent geographical points to approaching a method to measure coevolution.
+Identifying coevolutive hostpot of pathogens will prevent the spread of deadly pathogens. 
+Using the coevolutionary hipothesis proposed by Thompson, we will explain the evolutve mechanism behind virulence diversity ( refering to virulence the amount and the speed of which a pathogen kill a host )
+- [ ] sentence what virulence is for coevolution, virulence for host or for human
+
+
+Successful public health strategies for mitigating emerging infectious disease, requires understand evolutve history from the interaction between pathogens with their host under a geographical frame.
+
+
+and inmune adaptation at a biogeographical scale. Aditional to suggest methods to identifiy hotspots and coldspots of coevolution with potential higher risk of cross species transmission (?). 
+- [ ] Tell a story :  Coevolution is the reciprocal adaptation among interacting organisms, and one of the teories that better explain biodiversity because coevolutionary selection can lead to speciation. Geographic mosaic theory of coevolution examines and compare local variation in species interactions from diferent geographical points to approaching a method to measure coevolution.
 A geographic mosaic of coevolution (GMC) occurs when local variation in species interactions produces a spatially variable pattern of reciprocal adaptation in these species (REF)
 
-However, measuring coevolution requires [ ] *Methods?* . Cevolutionary process between pathogen - host can regulate the pathogens virulence according to its  specialization to the inmune sytem of the host, despite how promising seems using GMTC with epidemiological porpuses. Its implementation is still challenging for the local and spatial criteria that frequently are both hard to find and measure. 
 
 **Coevolution of pathogen- host interaction**
 
@@ -58,6 +66,8 @@ From fieldwork to modelling perpective?
 
 Do use regression approaches, selective source analysis and multivariate approaches to infer hot spots. When looking to establish cold spots for a particular interaction, don’t forget to include regions where one of the species is completely absent.@Gomulkiewicz2007DosDon (?)
 
+
+However, measuring coevolution requires [ ] *Methods?* . Cevolutionary process between pathogen - host can regulate the pathogens virulence according to its  specialization to the inmune sytem of the host, despite how promising seems using GMTC with epidemiological porpuses. Its implementation is still challenging for the local and spatial criteria that frequently are both hard to find and measure. 
 
 
 **ALSO - Concluding remarks ** 
